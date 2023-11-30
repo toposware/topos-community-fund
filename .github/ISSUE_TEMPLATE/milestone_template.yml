@@ -1,0 +1,69 @@
+name: Milestone 1 Submission
+description: To submit Milestone 1
+title: "[Milestone 1 Submission]: "
+labels: ["Milestone 1 Submission"]
+projects: ["toposware/topos-community-fund"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+          **Instructions:**
+          This is the first part of a three-part application. Part 1 focuses on the technical aspects of your Milestone submission. Part 2 is a form that confirms you are who you say you are, and triggers the review of your Milestone. For part 3, you need to send your invoice to community@toposware.com
+  - type: input
+    id: project_title
+    attributes:
+      label: Project title
+      description: Name of your Project
+    validations:
+      required: true
+  - type: input
+    id: project_application_link
+    attributes:
+      label: Link to grant application issue
+      description: Please link to the original Grant Application issue you submitted during the application process.
+    validations:
+      required: true
+  - type: textarea
+    id: milestone_submission
+    attributes:
+      label: Milestone submission
+      description: Please mirror the information you provided in the summary of your Milestones in your application.
+      value: |
+        Milestone Number:
+        Milestone Summary:
+        Milestone Timeframe: 
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        ## Milestone Deliverables
+
+        To submit Milestone 1 you need to have achieved the following:
+        Committed high-quality code that is representative of the rest of the project.
+
+        1. It must be either modified open-source code or created by you. If the code is modified, it must include the relevant licenses for use, modification and publication. The original code in this case must be licensed under APACHE2.
+        2. Code should show that you will be capable of carrying out the project.
+        3. This is an indicator of intent and should show that you've begun the project, you do not need to have created anything else.
+
+  - type: input
+    id: repository_link
+    attributes:
+      label: Link to the open-source code/delivery
+      description: Please link to the relevant GitHub repository
+  - type: input
+    id: repository_license
+    attributes:
+      label: License
+      description: This is expected to be APACHE2 unless otherwise outlined in your Grant Agreement.
+  - type: textarea
+    id: additional_info
+    attributes:
+      label: Any additional information
+      description: Please include any information you think would be useful to allow Toposware to assess your Milestone submission.
+  - type: markdown
+    attributes:
+      value: |
+        ***
+        Once you have submitted this issue, please fill in the [form for Milestone 1](http://buildersprogram.toposware.com/milestonesform1).
+
