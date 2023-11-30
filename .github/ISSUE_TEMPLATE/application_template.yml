@@ -1,0 +1,137 @@
+name: Grant Application
+description: To submit a testnet grant
+title: "[Grant Application]: {YOUR PROJECT TITLE}"
+labels: ["Grant Application"]
+projects: ["toposware/topos-builders-program"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Instructions:**
+        This is the first part of a two-part application. Part 1 focuses on what you plan to do to fulfill the grant specification. Part 2 is for details about you (and your team), which will be submitted through a private form. An outline of what is on the form is at the bottom of this issue.
+  - type: input
+    id: project_title
+    attributes:
+      label: Project title
+      description: Name of your Project
+    validations:
+      required: true
+  - type: input
+    id: grant_selection
+    attributes:
+      label: Link to grant specification
+      description: Please link to the grant that you are submitting a proposal for. Specifications are [here](../#-current-grants).
+    validations:
+      required: true
+  - type: input
+    id: grant_duration
+    attributes:
+      label: Time to complete the project
+      description: Please try not to take longer than the estimate in the grant specification. If you plan to take longer, please outline why.
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: accept_open_source
+    attributes:
+      label: Do you agree to open source all work you do for this project under the APACHE2 license?
+      description: |
+        If you do not agree, it is very unlikely that your grant will be approved. In this case, please specify why in the last question in the second part of this application (the form). The question will be: "Is there anything else you think the Topos Builders Program needs to know to assess your grant proposal?"
+      options:
+        - label: I agree to open source all work I do for this project under the APACHE2 license.
+  - type: textarea
+    id: project_description
+    attributes:
+      label: Project description
+      description: This section should be 2-3 paragraphs long. Please describe what problem or need your project addresses, why it's important, and your technical approach. Since this is a response to a grant specification, make sure to address the request directly.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        **Development Milestones**
+        This section should be no more than 1,000 words.
+
+        There are two types of milestones: payment milestones that are determined by the Topos Builders Program, and Development Milestones determined by you.
+
+        There are two payment milestones: the first is a week after project kick-off, and the second is at the end of your project's projected timeline. For more information on payment milestones, see here: [Milestone Guide](https://github.com/toposware/topos-builders-program/blob/main/milestone_guide.md).
+
+        You must create Development Milestones that sync with the two payment milestones. This is the minimum requirement.
+        If you wish, you can create additional Development Milestones that occur between the payment milestones. You should only do this if you feel you will need support and check-ins with the team to move forward with your project. Please do not create more than two additional Development Milestones.
+
+        For each development milestone, please describe:
+          1. The software functionality that can be expected after the completion of each milestone.
+          2. The areas you think you may need support.
+          3. The time you expect to reach this milestone from kick-off (the beginning of the project).
+          4. If applicable, any deliverables.
+
+        Please fill in the milestones summary at the top of the field.
+    validations:
+      required: true
+  - type: textarea
+    id: project_milestones
+    attributes:
+      label: Milestones
+      value: |
+        | Milestone No. | Milestone Summary | Estimated Timeframe |
+        | ------------- | --------------------- | ------------------- |
+        | 1             | Example milestone     |  Y weeks             |
+        | 2             | Example milestone     |  Y weeks             |
+        | 3             | Example milestone     |  Y weeks             |
+        | 4             | Example milestone     |  Y weeks             |
+    validations:
+      required: true
+  - type: textarea
+    id: project_documentation
+    attributes:
+      label: Documentation, education and community
+      description: |
+        As this is a project on a testnet, you are not expected to create extensive documentation and educational material. However, you will need to create sufficient documentation to allow the grant committee to assess your project.
+
+        Specify any plans you have for later documentation, education, and community-building that will be essential to your project's success beyond the timeframe of the grant.
+    validations:
+      required: true
+  - type: textarea
+    id: project_deliverables
+    attributes:
+      label: Other deliverables
+      description: Specify any other deliverables proposed as part of this project.
+  - type: textarea
+    id: project_maintenance
+    attributes:
+      label: Maintenance and upgrade plans
+      description: Outline your team's long-term plans to maintain and improve this project over time. This is your opportunity to outline your wider plans for the project and your vision for the project's future. Ideally, you will include ways that Topos can be integral to the project's future.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        Thank you! You have now completed this issue. Please read the section below, which provides information on the next steps, and submit your issue. If you wish to copy the information below as a reference, feel free to do so.
+
+        ***
+
+        Once you have submitted your issue you will need to fill in [this form](https://buildersprogram.toposware.com/applicationform).
+        This process is conducted in two steps to ensure your personal details remain private. The form will ask the following questions. Please prepare the information beforehand to reduce your frustration with filling in forms!
+
+        **Questions on the form**
+
+        * Please provide the email you will use for all correspondence.
+
+        Note: You can use a disposable email address. However, YOU MUST BE ABLE TO ACCESS CORRESPONDANCE WITH THIS EMAIL ADDRESS FOR AT LEAST 20 WEEKS. This will be the email the Topos Builders Program will use for all correspondence, including acceptance and payment information.
+
+        * Please add a link to the issue that includes your application.
+        * Please give the name of the individual or entity that is submitting the application.
+
+        Note: The grant agreement and any payments must be completed by the same entity, either an individual or an organization.
+
+        * Do you have any existing work relationships with entities within the Topos ecosystem, including Toposware, the ZK Foundation, B9Lab or any other individual or organization? If yes, please list them.
+        
+        Note: This will not affect your application.
+
+        * Team members: Please list the team members who will be working on the project.
+        * LinkedIn Profiles: Please list your team members' LinkedIn profiles (if applicable).
+        * GitHub profiles: Please list your team members' GitHub profiles.
+        * Team code repositories: Please provide links to your team's prior code repos for similar or related projects.
+        * Team website: Please add a link to your team's website (if applicable).
+        * Relevant experience: Please describe (in words) your team's relevant experience and why you are the right team to build this project. You can cite your team's prior experience in similar domains, doing similar development work, individual team members' backgrounds, etc.
+        * Is there anything else you think the Topos Builders Program needs to know to assess your grant proposal?
