@@ -1,0 +1,95 @@
+name: Milestone 2 Submission
+description: To submit Milestone 2
+title: "[Milestone 2 Submission]: "
+labels: ["Milestone 2 Submission"]
+projects: ["toposware/topos-builders-program"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+          **Instructions:**
+          This is the first part of a three-part process to submit Milestone 2. Part 1 focuses on the technical aspects of your Milestone submission. Part 2 is a form that confirms you are who you say you are, and triggers the review of your Milestone. For part 3, you need to send your invoice to builders@toposware.com
+  - type: input
+    id: project_title
+    attributes:
+      label: Project title
+      description: Name of your Project
+    validations:
+      required: true
+  - type: input
+    id: project_application_link
+    attributes:
+      label: Link to grant application issue
+      description: Please link to the original Grant Application issue you submitted during the application process.
+    validations:
+      required: true
+  - type: textarea
+    id: milestone_submission
+    attributes:
+      label: Milestone submission
+      description: Please mirror the information you provided in the summary of your Milestones in your application.
+      value: |
+        Milestone Number:
+        Milestone Summary:
+        Milestone Timeframe: 
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        ## Milestone Deliverables
+
+        Throughout this section, please:
+
+          1. Include any information that you think is relevant to the deliverable in each section.
+          2. Highlight any deliverables that significantly deviate from your Grant Agreement with a brief explanation of the difference.
+  - type: input
+    id: repository_link
+    attributes:
+      label: Link to the open-source code/delivery
+      description: Please link to the relevant GitHub repository
+  - type: input
+    id: repository_license
+    attributes:
+      label: License
+      description: This is expected to be APACHE2 unless otherwise outlined in your Grant Agreement.
+  - type: input
+    id: repository_documentation
+    attributes:
+      label: Documentation
+      description: Ideally any documentation will be part of the relevant GitHub repository. Please put a link here.  If not, please link to another public source (e.g. an open-access Google Doc)
+  - type: markdown
+    attributes:
+      value: |
+        As this is a project on a testnet, you are not expected to create extensive documentation. However, you will need to create sufficient documentation to allow the grant committee to assess your project.
+
+        Where applicable please document the areas below. Do not write detailed explanations of already existing components.
+
+        * API calls
+        * Architecture overview and individual component details
+        * Algorithms and protocols that are core to your project
+        * Any other fundamental building blocks to your technology
+  - type: textarea
+    id: further_documentation
+    attributes:
+      label: Further documentation
+  - type: input
+    id: repository_tests
+    attributes:
+      label: Tests for critical functions
+      description: Ideally will be part of the relevant GitHub repository. Please put a link here. If not, please link to another public source. See the section "Testing Guide" in the [Milestone Guide](https://github.com/toposware/topos-builders-program/blob/main/milestone_guide.md) for further information.
+  - type: textarea
+    id: other_deliverables
+    attributes:
+      label: Other milestone deliverables
+      description: If appropriate please include any other deliverables for this Milestone that you included in your application.
+  - type: textarea
+    id: additional_info
+    attributes:
+      label: Any additional information
+      description: Please include any information you think would be useful to allow Toposware to assess your Milestone submission.
+  - type: markdown
+    attributes:
+      value: |
+        ***
+        Once you have submitted this issue, please fill in the [form for Milestone 2](http://buildersprogram.toposware.com/milestonesform2).
