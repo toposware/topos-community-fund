@@ -36,7 +36,7 @@ body:
     attributes:
       label: Do you agree to open source all work you do for this project under the APACHE2 license?
       description: |
-        If you do not agree, it is very unlikely that your grant will be approved. In this case, please specify why in the last question in the second part of this application (the form). The question will be: "Is there anything else you think the Topos Builders Program needs to know to assess your grant proposal?"
+        If you do not agree, it is very unlikely that your grant will be approved. In this case, please specify why in the last question in the second part of this application (the form). The question will be: "Is there anything else you think the Topos Community Fund needs to know to assess your grant proposal?"
       options:
         - label: I agree to open source all work I do for this project under the APACHE2 license.
   - type: textarea
@@ -52,9 +52,9 @@ body:
         **Development Milestones**
         This section should be no more than 1,000 words.
 
-        There are two types of milestones: payment milestones that are determined by the Topos Builders Program, and Development Milestones determined by you.
+        There are two types of milestones: payment milestones that are determined by the Topos Community Fund, and Development Milestones determined by you.
 
-        There are two payment milestones: the first is a week after project kick-off, and the second is at the end of your project's projected timeline. For more information on payment milestones, see here: [Milestone Guide](https://github.com/toposware/topos-builders-program/blob/main/milestone_guide.md).
+        There are two payment milestones: the first is a week after project kick-off, and the second is at the end of your project's projected timeline. For more information on payment milestones, see here: [Milestone Guide](https://github.com/toposware/topos-community-fund/blob/main/milestone_guide.md).
 
         You must create Development Milestones that sync with the two payment milestones. This is the minimum requirement.
         If you wish, you can create additional Development Milestones that occur between the payment milestones. You should only do this if you feel you will need support and check-ins with the team to move forward with your project. Please do not create more than two additional Development Milestones.
