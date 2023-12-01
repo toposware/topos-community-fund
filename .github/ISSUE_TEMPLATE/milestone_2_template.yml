@@ -2,13 +2,13 @@ name: Milestone 2 Submission
 description: To submit Milestone 2
 title: "[Milestone 2 Submission]: "
 labels: ["Milestone 2 Submission"]
-projects: ["toposware/topos-builders-program"]
+projects: ["toposware/topos-community-fund"]
 body:
   - type: markdown
     attributes:
       value: |
           **Instructions:**
-          This is the first part of a three-part process to submit Milestone 2. Part 1 focuses on the technical aspects of your Milestone submission. Part 2 is a form that confirms you are who you say you are, and triggers the review of your Milestone. For part 3, you need to send your invoice to builders@toposware.com
+          This is the first part of a three-part process to submit Milestone 2. Part 1 focuses on the technical aspects of your Milestone submission. Part 2 is a form that confirms you are who you say you are, and triggers the review of your Milestone. For part 3, you need to send your invoice to community@toposware.com
   - type: input
     id: project_title
     attributes:
