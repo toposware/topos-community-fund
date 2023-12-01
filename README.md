@@ -44,8 +44,27 @@ Our goal is to foster a vibrant and innovative community by empowering project o
 - **Apr 18-24**: Community vote.
 - **Apr 25-May 9**: Payout upon completion of milestones.
 
-## :question: How to Apply
-To apply, submit your project proposal as an issue in this repository. Detailed guidelines are available [here](link-to-submission-guide).
+## 📋 How to apply
+
+>[!IMPORTANT]
+>Application is a simple two-step process and needs to be executed in order:
+>1. Create a new issue using the [application template](https://github.com/toposware/topos-community-fund/issues/new?assignees=&labels=Grant+Application&projects=toposware%2Ftopos-community-fund&template=application_template.yml&title=%5BGrant+Application%5D%3A+%7BYOUR+PROJECT+TITLE%7D). Once you've filled in the template, submit the issue.
+>2. Fill in an [application form](http://buildersprogram.toposware.com/applicationform). You will need to include a link to the submitted issue.
+
+>[!NOTE]
+>* Applications are open until EITHER the program receives its maximum number of applications OR 31st October 2023. This means you should apply as soon as you can to be sure your submission is included in this cohort.
+>* Throughout the process, your email address will be your identifier. It is acceptable to use a temporary email address to preserve your privacy, but you must have access to the emails sent to that address for the duration of the grant period (up to 20 weeks). Not having access to the emails will mean you will not be able to receive your grant. It will not be possible to change emails during the grant period.
+>* It is important to read the [T&Cs](https://github.com/toposware/topos-community-fund/blob/main/terms_and_conditions.md) as there are some exclusions and conditions that may mean you cannot be accepted for a grant.
+>* To receive payments you will need to submit milestones that comply with our [Milestone Guide](https://github.com/toposware/topos-community-fund/blob/main/milestone_guide.md).
+>* If you need more help, please send us an [email](mailto:community@toposware.com).
+
+Application requirements:
+
+* For most projects in this round of grants you need to be proficient in Solidity. Support and learning materials will be provided during your build phase to help you navigate the Topos Protocol, but not to learn Solidity.
+* Code produced as part of the grant must be open source and must not rely on closed-source software for full functionality. Please license your code under Apache 2.0.
+* We do not fund projects that have been the object of a token sale.
+* We do not fund projects that actively encourage gambling, or criminal activity.
+* You must be eligible to receive a grant under section 2 (Eligibility) of the [T&Cs](./terms_and_conditions.md).
 
 ## 💲 Payment
 
