@@ -47,7 +47,7 @@ Our goal is to foster a vibrant and innovative community by empowering project o
 ## 📋 How to apply
 
 >[!IMPORTANT]
->Application is a simple two-step process and needs to be executed in order:
+>Applying is a simple two-step process and needs to be executed in order:
 >1. Create a new issue using the [application template](https://github.com/toposware/topos-community-fund/issues/new?assignees=&labels=Grant+Application&projects=toposware%2Ftopos-community-fund&template=application_template.yml&title=%5BGrant+Application%5D%3A+%7BYOUR+PROJECT+TITLE%7D). Once you've filled in the template, submit the issue.
 >2. Fill in an [application form](http://buildersprogram.toposware.com/applicationform). You will need to include a link to the submitted issue.
 
