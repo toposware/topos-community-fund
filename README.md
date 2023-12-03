@@ -52,7 +52,7 @@ Our goal is to foster a vibrant and innovative community by empowering project o
 >2. Fill in an [application form](http://buildersprogram.toposware.com/applicationform). You will need to include a link to the submitted issue.
 
 >[!NOTE]
->* Applications are open until EITHER the program receives its maximum number of applications OR 31st October 2023. This means you should apply as soon as you can to be sure your submission is included in this cohort.
+>* Applications are open until EITHER the program receives its maximum number of applications OR 31st January 2024. This means you should apply as soon as you can to be sure your submission is included in this cohort.
 >* Throughout the process, your email address will be your identifier. It is acceptable to use a temporary email address to preserve your privacy, but you must have access to the emails sent to that address for the duration of the grant period (up to 20 weeks). Not having access to the emails will mean you will not be able to receive your grant. It will not be possible to change emails during the grant period.
 >* It is important to read the [T&Cs](https://github.com/toposware/topos-community-fund/blob/main/terms_and_conditions.md) as there are some exclusions and conditions that may mean you cannot be accepted for a grant.
 >* To receive payments you will need to submit milestones that comply with our [Milestone Guide](https://github.com/toposware/topos-community-fund/blob/main/milestone_guide.md).
