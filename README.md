@@ -22,6 +22,8 @@ Our goal is to foster a vibrant and innovative community by empowering project o
 2. **Panel Review**: A collaborative session between Toposware employees and community members on Discord to select projects for community voting.
 3. **Community Voting**: Projects pitch their ideas in a public session on Discord, followed by a community vote.
 4. **Funding Allocation**: Funds are distributed based on vote counts until the budget is exhausted. Any remainder rolls over to the next round.
+>[!NOTE]
+>You will be required to provide a 5-10 minute presentation on your project live to the community in order to qualify for this grant.
 
 ## :calendar: Timeline
 
