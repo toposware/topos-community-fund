@@ -56,7 +56,7 @@ Our goal is to foster a vibrant and innovative community by empowering project o
 >* Throughout the process, your email address will be your identifier. It is acceptable to use a temporary email address to preserve your privacy, but you must have access to the emails sent to that address for the duration of the grant period (up to 20 weeks). Not having access to the emails will mean you will not be able to receive your grant. It will not be possible to change emails during the grant period.
 >* It is important to read the [T&Cs](https://github.com/toposware/topos-community-fund/blob/main/terms_and_conditions.md) as there are some exclusions and conditions that may mean you cannot be accepted for a grant.
 >* To receive payments you will need to submit milestones that comply with our [Milestone Guide](https://github.com/toposware/topos-community-fund/blob/main/milestone_guide.md).
->* If you need more help, please send us an [email](mailto:community@toposware.com).
+>* If you need more help, please send us an [email](mailto:john.rubisoff@toposware.com).
 
 Application requirements:
 
