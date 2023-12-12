@@ -80,7 +80,7 @@ You may terminate these Terms by contacting Toposware: (1) if your Application h
 We may provide any notice to You under these terms and conditions by posting a notice on our Website, adding a comment to the initial pull request of Your application on GitHub or sending an email to the email address associated with Your application on GitHub. Notices We provide by posting on the Website will be effective upon posting.
 
 
-To give us notice under these Terms, You must contact us by email to [community@toposware.com](mailto:community@toposware.com). We may update this email address for notices to us by posting a notice on Our Website. Notices to us will be effective one business day after they are sent.
+To give us notice under these Terms, You must contact us by [email](mailto:john.rubisoff@toposware.com). We may update this email address for notices to us by posting a notice on Our Website. Notices to us will be effective one business day after they are sent.
 
 All communications and notices to be made or given pursuant to these Terms must be in English language.
 
