@@ -27,24 +27,24 @@ Our goal is to foster a vibrant and innovative community by empowering project o
 
 ## :calendar: Timeline
 
-### **Round 1 - Starting Budget $10,000**
-- **Dec-Jan**: Marketing, submission collection, panel member selection.
-- **Jan 31**: Round 1 submissions close. Round 2 opens.
-- **Feb 1-2**: Initial review of projects.
-- **Feb 5-8**: Panel review.
-- **Feb 9**: Selection for community vote.
-- **Feb 16**: Live pitches on Discord.
-- **Feb 16-22**: Community vote.
-- **Feb 23-Mar 8**: Payout upon completion of milestones.
+### **Round 1**
+- **Jan-Feb**: Marketing, submission collection, panel member selection.
+- **Feb 19**: Round 1 submissions close. Round 2 opens.
+- **Feb 20-21**: Initial review of projects.
+- **Feb 22-26**: Panel review.
+- **Feb 26**: Selection for community vote.
+- **Feb 29**: Live pitches on Discord.
+- **Feb 26-Mar 4**: Community vote.
+- **Mar 4-**: Payout upon completion of milestones.
 
-### **Round 2 - Starting Budget $10,000**
-- **Apr 1**: Round 2 submission collection closes.
-- **Apr 2-3**: Initial review of projects.
-- **Apr 4-10**: Panel review.
-- **Apr 11**: Selection of projects for community vote.
-- **Apr 18**: Live pitches on Discord.
-- **Apr 18-24**: Community vote.
-- **Apr 25-May 9**: Payout upon completion of milestones.
+### **Round 2**
+- **May 1**: Round 2 submission collection closes.
+- **May 2-3**: Initial review of projects.
+- **May 6-10**: Panel review.
+- **May 13**: Selection of projects for community vote.
+- **May 17**: Live pitches on Discord.
+- **May 17-22**: Community vote.
+- **May 23-**: Payout upon completion of milestones.
 
 ## 📋 How to apply
 
