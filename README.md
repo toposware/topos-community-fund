@@ -37,15 +37,6 @@ Our goal is to foster a vibrant and innovative community by empowering project o
 - **Feb 26-Mar 4**: Community vote.
 - **Mar 4-**: Payout upon completion of milestones.
 
-### **Round 2**
-- **May 1**: Round 2 submission collection closes.
-- **May 2-3**: Initial review of projects.
-- **May 6-10**: Panel review.
-- **May 13**: Selection of projects for community vote.
-- **May 17**: Live pitches on Discord.
-- **May 17-22**: Community vote.
-- **May 23-**: Payout upon completion of milestones.
-
 ## 📋 How to apply
 
 >[!IMPORTANT]
