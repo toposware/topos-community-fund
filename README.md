@@ -27,7 +27,7 @@ Our goal is to foster a vibrant and innovative community by empowering project o
 
 ## :calendar: Timeline
 
-### **Round 1**
+### **Round 1** Total budget: $10,000
 - **Jan-Feb**: Marketing, submission collection, panel member selection.
 - **Feb 19**: Round 1 submissions close. Round 2 opens.
 - **Feb 20-21**: Initial review of projects.
