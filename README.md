@@ -21,13 +21,13 @@ Our goal is to foster a vibrant and innovative community by empowering project o
 1. **Proposal Submission**: Project owners submit their grant proposals with budget requests via GitHub.
 2. **Panel Review**: A collaborative session between Toposware employees and community members on Discord to select projects for community voting.
 3. **Community Voting**: Projects pitch their ideas in a public session on Discord, followed by a community vote.
-4. **Funding Allocation**: Funds are distributed based on vote counts until the budget is exhausted. Any remainder rolls over to the next round.
+4. **Funding Allocation**: Total budget of $10,000. Funds are distributed based on vote counts until the budget is exhausted. Any remainder rolls over to the next round.
 >[!NOTE]
 >You will be required to provide a 5-10 minute presentation on your project live to the community in order to qualify for this grant.
 
 ## :calendar: Timeline
 
-### **Round 1** Total budget: $10,000
+### **Round 1** 
 - **Jan-Feb**: Marketing, submission collection, panel member selection.
 - **Feb 19**: Round 1 submissions close. Round 2 opens.
 - **Feb 20-21**: Initial review of projects.
