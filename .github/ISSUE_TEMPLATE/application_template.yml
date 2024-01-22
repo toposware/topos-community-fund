@@ -17,6 +17,13 @@ body:
     validations:
       required: true
   - type: input
+    id: Budget
+    attributes:
+      label: Budget
+      description: Project budget
+    validations:
+      required: true
+  - type: input
     id: grant_selection
     attributes:
       label: Link to grant specification
