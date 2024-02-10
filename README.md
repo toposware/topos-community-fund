@@ -11,7 +11,7 @@
 ---
 
 ## :sparkles: Introduction
-Welcome to the **Topos Community Fund**, a unique initiative designed to support projects that deliver a positive impact on the Topos ecosystem. This program aims not only to provide financial assistance to innovative projects but also to enhance community engagement, visibility, and recognition within the Topos network.
+Welcome to the **Topos Community Fund**, a unique initiative designed to support projects that deliver a positive impact on the Topos ecosystem. This program aims not only to provide financial assistance to innovative projects but to as well enhance community engagement, visibility, and recognition within the Topos network.
 
 ## :dart: Goal
 Our goal is to foster a vibrant and innovative community by empowering project owners through funding, resources, and a platform to showcase their projects.
