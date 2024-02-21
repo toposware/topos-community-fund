@@ -29,13 +29,13 @@ Our goal is to foster a vibrant and innovative community by empowering project o
 
 ### **Round 1** 
 - **Jan-Feb**: Marketing, submission collection, panel member selection.
-- **Feb 19**: Round 1 submissions close. Round 2 opens.
-- **Feb 20-21**: Initial review of projects.
-- **Feb 22-26**: Panel review.
-- **Feb 26**: Selection for community vote.
-- **Feb 29**: Live pitches on Discord.
-- **Feb 26-Mar 4**: Community vote.
-- **Mar 4-**: Payout upon completion of milestones.
+- **Feb 29**: Round 1 submissions close. Round 2 opens.
+- **Mar 1**: Initial review of projects.
+- **Mar 4-6**: Panel review.
+- **Mar 7**: Selection for community vote.
+- **Mar 8**: Live pitches on Discord.
+- **Mar 8-11**: Community vote.
+- **Mar 12-**: Payout upon completion of milestones.
 
 ## 📋 How to apply
 
